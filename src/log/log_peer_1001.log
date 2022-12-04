@@ -1,0 +1,86 @@
+[Sun, 04 Dec 2022 11:41:52 PM]: Peer [peer_ID 1001] Peer [1001] : exchanging bitfiled 0
+[Sun, 04 Dec 2022 11:41:56 PM]: Peer [peer_ID 1001] Handshake Message received and processed correctly.
+[Sun, 04 Dec 2022 11:41:56 PM]: Peer [peer_ID 1001] Peer 1001 is connected from Peer 1002.
+[Sun, 04 Dec 2022 11:41:56 PM]: Peer [peer_ID 1001] Peer [1001] : Handshake Message (P2PFILESHARINGPROJ1001) sent
+[Sun, 04 Dec 2022 11:41:57 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:00 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:03 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:05 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:07 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:07 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:09 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:11 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:13 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:15 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:17 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:17 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:19 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:21 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:23 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:25 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:27 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:27 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:29 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:31 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:33 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:35 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:37 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:37 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:39 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:41 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:43 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:45 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:47 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:47 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:49 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:51 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:53 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:55 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:57 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:42:57 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:42:59 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:01 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:03 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:05 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:07 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:07 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:09 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:11 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:13 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:15 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:17 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:17 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:19 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:21 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:23 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:25 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:27 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:27 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:29 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:31 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:33 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:35 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:37 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:37 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:39 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:41 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:43 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:45 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:47 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:47 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:49 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:51 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:53 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:55 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:57 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:43:57 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:43:59 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:01 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:03 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:05 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:07 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
+[Sun, 04 Dec 2022 11:44:07 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:09 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:11 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:13 PM]: Peer [peer_ID 1001] Peer [1001] recieved the 'interested' message from [1002]
+[Sun, 04 Dec 2022 11:44:17 PM]: Peer [peer_ID 1001] Peer [1001] has downloaded the complete file.
