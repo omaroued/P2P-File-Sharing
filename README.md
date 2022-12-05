@@ -1,6 +1,5 @@
 # CNT5106C Project
 
-Group member: Yefan Tao, Zhang Dong, Zhuobiao Qiao
 
 Java implementation of a P2P file sharing software similar to BitTorrent. BitTorrent is a popular P2P protocol for file distribution. Among its interesting features, you are asked to implement the choking-unchoking mechanism which is one of the most important features of BitTorrent.
 
